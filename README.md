@@ -1,5 +1,3 @@
-# Enhancing Neuro-oncological Diagnosis: A Deep Learning Framework for High-Accuracy Classification of Meningioma, Glioma, and Pituitary Brain Tumors in MRI Scans
-
 ## rationale
 Every year, nearly 20,000 people die from brain tumors. As such, early detection of these brain tumors is imperative for improving chances of successful treatment and patient survival. However, the process of analyzing MRI images of the brain can be considerably time consuming, as it requires precise, detail-oriented, and sustained focus to ensure that the diagnosis is correct. The process is further impeded given the growing shortage of radiologists, or trained doctors who have experience in interpreting and analyzing MRI images. As such, this creates a pressing issue in healthcare systems, where timely diagnosis is critical.
 
